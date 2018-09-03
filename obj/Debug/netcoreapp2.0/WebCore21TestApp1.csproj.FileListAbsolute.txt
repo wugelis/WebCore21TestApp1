@@ -1,0 +1,11 @@
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\bin\Debug\netcoreapp2.0\WebCore21TestApp1.deps.json
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\bin\Debug\netcoreapp2.0\WebCore21TestApp1.runtimeconfig.json
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\bin\Debug\netcoreapp2.0\WebCore21TestApp1.runtimeconfig.dev.json
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\bin\Debug\netcoreapp2.0\WebCore21TestApp1.dll
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\bin\Debug\netcoreapp2.0\WebCore21TestApp1.pdb
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\obj\Debug\netcoreapp2.0\WebCore21TestApp1.csprojResolveAssemblyReference.cache
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\obj\Debug\netcoreapp2.0\WebCore21TestApp1.csproj.CoreCompileInputs.cache
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\obj\Debug\netcoreapp2.0\WebCore21TestApp1.AssemblyInfoInputs.cache
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\obj\Debug\netcoreapp2.0\WebCore21TestApp1.AssemblyInfo.cs
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\obj\Debug\netcoreapp2.0\WebCore21TestApp1.dll
+D:\Temp\LabsCore2\WebCore21TestApp1\WebCore21TestApp1\obj\Debug\netcoreapp2.0\WebCore21TestApp1.pdb
